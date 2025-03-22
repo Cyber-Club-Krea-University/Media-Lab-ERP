@@ -9,3 +9,4 @@ defmodule MediaLabWeb.AccessController do
     {:noreply, assign(socket, :message, "You clicked the button!")}
   end
 end
+
